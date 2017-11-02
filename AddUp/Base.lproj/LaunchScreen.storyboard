@@ -29,7 +29,11 @@
                         <constraints>
                             <constraint firstItem="asU-aC-cf9" firstAttribute="top" secondItem="lQz-Sm-iTs" secondAttribute="top" id="Fpt-Lj-Ujt"/>
                             <constraint firstItem="OQQ-Co-DRB" firstAttribute="top" secondItem="asU-aC-cf9" secondAttribute="bottom" id="Q9y-zm-Cd8"/>
+                            <constraint firstAttribute="trailing" secondItem="asU-aC-cf9" secondAttribute="trailing" id="Rdb-Ff-Ze8"/>
+                            <constraint firstItem="asU-aC-cf9" firstAttribute="top" secondItem="lQz-Sm-iTs" secondAttribute="top" id="SSg-eL-GKd"/>
+                            <constraint firstItem="asU-aC-cf9" firstAttribute="leading" secondItem="lQz-Sm-iTs" secondAttribute="leading" id="fX2-XL-wZX"/>
                             <constraint firstAttribute="trailing" secondItem="asU-aC-cf9" secondAttribute="trailing" id="haj-Ta-rt3"/>
+                            <constraint firstItem="OQQ-Co-DRB" firstAttribute="top" secondItem="asU-aC-cf9" secondAttribute="bottom" id="yJm-nN-HxZ"/>
                             <constraint firstItem="asU-aC-cf9" firstAttribute="leading" secondItem="lQz-Sm-iTs" secondAttribute="leading" id="zke-h3-yj9"/>
                         </constraints>
                     </view>
